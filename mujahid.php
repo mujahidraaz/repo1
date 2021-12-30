@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Word !"
+echo "muijahid hussain raaz"
 
  ?>
